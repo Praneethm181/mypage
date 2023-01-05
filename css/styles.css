@@ -97,21 +97,21 @@ right: 10px;
 }
 
 .skillimg1{
-    float: right;
+    /* float: right; */
     width: 25%;
     margin-right: 30px;
 }
 
 
 .skillimg{
-    float: left;
+    /* float: left; */
     width: 25%;
     margin-right: 30px;
 }
 
-.okey{
+/* .okey{
     clear: left;
-}
+} */
 
 .intro{
     color: #40514E;
@@ -161,6 +161,10 @@ right: 10px;
     margin-top: 40px;
   }
 
+
+  a:hover{
+    color:#EAF6F6 ;
+  }
 
 
 
